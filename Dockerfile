@@ -1,4 +1,4 @@
-FROM        taig/scala:1.0.2
+FROM        taig/scala:1.0.3
 
 MAINTAINER  Niklas Klein "mail@taig.io"
 
