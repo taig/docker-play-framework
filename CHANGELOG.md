@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.4
+
+_2016-11-08_
+
+ * Upgrade to taig/scala:1.0.7
+ * Upgrade to activator 1.3.12
+
 ## 1.0.3
 
 _2016-08-25_
