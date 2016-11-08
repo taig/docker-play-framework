@@ -2,7 +2,7 @@ FROM        taig/scala:1.0.7
 
 MAINTAINER  Niklas Klein "mail@taig.io"
 
-ENV         ACTIVATOR 1.3.10
+ENV         ACTIVATOR 1.3.12
 
 WORKDIR     /root/
 
